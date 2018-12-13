@@ -1,0 +1,10 @@
+D:\Desktop\knopki\x.exe.config
+D:\Desktop\knopki\x.exe
+D:\Desktop\knopki\x.pdb
+D:\barecky-knopki-master\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\barecky-knopki-master\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Form1.resources
+D:\barecky-knopki-master\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+D:\barecky-knopki-master\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\barecky-knopki-master\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\barecky-knopki-master\WindowsFormsApp4\obj\Release\x.exe
+D:\barecky-knopki-master\WindowsFormsApp4\obj\Release\x.pdb
